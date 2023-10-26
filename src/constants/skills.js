@@ -173,7 +173,7 @@ const categorizedSkills = {
 
   other: {
     title: 'Other',
-    skills: ['linux', 'git', 'arduino'],
+    skills: ['linux', 'git', 'arduino','Raspberry pi'],
   },
 };
 
@@ -240,6 +240,7 @@ const icons = {
   swift: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg',
   typescript: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg',
   linux: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg',
+  Raspberrypi: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg',
   redux: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg',
   webpack:
     'https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg',
@@ -409,6 +410,7 @@ const skillWebsites = {
   swift: 'https://developer.apple.com/swift/',
   typescript: 'https://www.typescriptlang.org/',
   linux: 'https://www.linux.org/',
+  Raspberrypi: 'https://www.raspberrypi.com/',
   redux: 'https://redux.js.org',
   webpack: 'https://webpack.js.org',
   flutter: 'https://flutter.dev',
